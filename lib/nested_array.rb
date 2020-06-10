@@ -36,6 +36,7 @@ def sorted_matrix
     ORGANIC_PRODUCE
   ]
   organic_standards[1].sort
+  organic_standards[2].sort
 end
 
 def matrix_lookup(matrix, row, column)
